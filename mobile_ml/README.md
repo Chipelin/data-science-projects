@@ -19,4 +19,4 @@
 ## Стек технологий
 
 - Pandas
-- skkearm
+- sklearn
