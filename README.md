@@ -1,2 +1,2 @@
-# data-science-projects
+# Проекты Data Science
 Репозиторий проектов Data Science
