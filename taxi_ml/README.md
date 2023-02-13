@@ -28,3 +28,5 @@
 - sklearn
 - LightGBM
 - Catboost
+
+**Статус проекта:**  Завершен.
